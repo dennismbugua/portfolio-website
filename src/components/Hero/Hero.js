@@ -9,11 +9,11 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Hi there, <br />
+          Am Dennis, and welcome to my Portfolio!
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        I build world-class digital products for service professionals to monetize their works and drive an increase in their market share using cutting edge technology
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
